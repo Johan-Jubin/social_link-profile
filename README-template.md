@@ -20,6 +20,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ## Overview
 
+Replication of a social links page from Frontend Mentor
+
 ### The challenge
 
 Users should be able to:

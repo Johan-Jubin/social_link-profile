@@ -51,6 +51,7 @@ body{
 .job{
     color: rgb(161, 161, 161);
     line-height:4em;
+    text-align: center;
 }
 .links {
     height: 100%;
